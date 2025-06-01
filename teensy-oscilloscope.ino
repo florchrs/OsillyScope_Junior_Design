@@ -51,7 +51,7 @@ int prevRawCH1 = 0;
 float ampScale = 1.0;
 const float ampStep = 0.1, ampMin = 0.1, ampMax = 2.5;
 float timeScale = 0.2;
-const float timeStep = 0.1, timeMin = 0.1, timeMax = 100.0;
+const float timeStep = 0.1, timeMin = 0.2, timeMax = 100.0;
 
 // Timing control
 unsigned long lastSampleMicros = 0;
