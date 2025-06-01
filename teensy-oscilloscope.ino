@@ -50,7 +50,7 @@ int prevRawCH1 = 0;
 // Scaling factors
 float ampScale = 1.0;
 const float ampStep = 0.1, ampMin = 0.1, ampMax = 2.5;
-float timeScale = 1.0;
+float timeScale = 0.2;
 const float timeStep = 0.1, timeMin = 0.1, timeMax = 100.0;
 
 // Timing control
